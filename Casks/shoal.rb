@@ -2,8 +2,8 @@
 # as Casks/shoal.rb. scripts/release.sh prints this file with the new
 # version and sha256 filled in.
 cask "shoal" do
-  version "0.12.25"
-  sha256 "7b48d0271521f0165ade88f8df4ad6a6c6970191b99c56c3958af5b4e3bcd716"
+  version "0.12.26"
+  sha256 "bdc5f75e4c493051f339c9031c5959abad9cc0ef812cae709ce322f5de829a6b"
 
   url "https://github.com/austinejose1516/shoal-releases/releases/download/v#{version}/Shoal-#{version}.dmg"
   name "Shoal"
